@@ -1,0 +1,37 @@
+"""
+Menu 4 opciones
+A.- PEDIR NÚMEROS DE 1 HASTA n
+	n UN DATO, LA CANTIDAD DE NÚMEROS A SUMAR NÚMEROS PARES.
+	EJEMPLO:
+	8
+
+B.-
+C.-
+D.-
+"""
+
+a = true
+while n:
+	print ("Escoge una opcion")
+	print("Opción A . Pares")
+	print("Opción B . Impares")
+	print("Opción C . Suma a 100")
+	print("Opción D . Salir")
+	op= input()
+	if op == "A" or po== "a":
+		print ("La cantidad de números a sumar:")
+
+	if op == "B" or po== "b":
+		print ("Bienvenido B")
+	if op == "C" or po== "c":
+		print ("Bienvenido C")
+	if op == "D" or po== "d":
+		print ("Hasta luego, vuelve pronto")
+		n=false
+
+
+
+
+
+
+
